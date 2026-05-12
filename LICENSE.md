@@ -1,4 +1,4 @@
-# 
+# custom bitmex trading bot Plugin | isolated-margin + API-integration offers the most advanced bitmex trading bot, with isolated-margin and API-integration. Ideal for professional
 
 
 
